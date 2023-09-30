@@ -611,7 +611,7 @@
     left: 5px;
     width: 70px;
     height: 70px;
-    border: 1px solid #8cbc43;
+    border: 1px solid #d6670d;
     transition: all 1s ease-in-out;
     -moz-transition: all 1s ease-in-out;
     -webkit-transition: all 1s ease-in-out;
@@ -1137,14 +1137,14 @@
     content: '';
     width: 0;
     height: 0;
-    border-bottom: 34px solid #8cbc43;
+    border-bottom: 34px solid #d6670d;
     border-left: 30px solid transparent;
     right:0px;
     bottom: 0px;
     transition: .7s all ease;
 }
  .featured-icon-box.style3:hover .featured-desc:after{
-    border-bottom: 14px solid #8cbc43;
+    border-bottom: 14px solid #d6670d;
     border-left: 10px solid transparent;
     transition: .7s all ease;
 }
@@ -1437,12 +1437,12 @@
     margin: 0 auto;
     transition: all ease .7s;
 }
-.slick_slider.services .col-12.slick-active.slick-current+.slick-active .featured-icon-box.style15:after{background-color: #8cbc43;}
+.slick_slider.services .col-12.slick-active.slick-current+.slick-active .featured-icon-box.style15:after{background-color: #d6670d;}
 .featured-icon-box.style15:before{
     content: '';
     position: absolute;
     left: 0;
-    background-color: #8cbc43;
+    background-color: #d6670d;
     right: auto;
     top: 0;
     width: 3px;
@@ -1756,7 +1756,7 @@ div:hover > .cmt-box-view-overlay:before, div:hover > .cmt-box-view-content-inne
 .featured-imagebox-portfolio.style3 .featured-content i{
     font-size: 10px;
     color: #fff;
-    background-color: #8cbc43;
+    background-color: #d6670d;
     border-radius: 50%;
     height: 20px;
     width: 20px;
@@ -1802,7 +1802,7 @@ div:hover > .cmt-box-view-overlay:before, div:hover > .cmt-box-view-content-inne
 .featured-imagebox-portfolio.style4 .featured-content i{
     font-size: 10px;
     color: #fff;
-    background-color: #8cbc43;
+    background-color: #d6670d;
     border-radius: 50%;
     height: 20px;
     width: 20px;
@@ -2003,7 +2003,7 @@ div:hover > .cmt-box-view-overlay:before, div:hover > .cmt-box-view-content-inne
 /*style3*/
 .featured-imagebox-post.style3 .featured-content {
     padding: 30px 50px;
-    border-top: 3px solid #8cbc43;
+    border-top: 3px solid #d6670d;
     margin-top: 4px;
     background-color: #f7f9fa;
 }
@@ -3857,7 +3857,7 @@ ul.payment_methods {
     list-style: none outside;
 }
 #payment .payment_box {
-    border-top: 3px solid #8cbc43;
+    border-top: 3px solid #d6670d;
     position: relative;
     box-sizing: border-box;
     width: 100%;
@@ -3882,7 +3882,7 @@ ul.payment_methods {
     padding: 1em 2em 1em 3.5em;
     margin: 0 0 2em;
     position: relative;
-    border-top: 3px solid #8cbc43;
+    border-top: 3px solid #d6670d;
 }
 .coupon_toggle .coupon_code:before,
 #payment .payment_box:before{
